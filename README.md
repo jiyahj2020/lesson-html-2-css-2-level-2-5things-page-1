@@ -3,10 +3,10 @@
 ### Skills for this project (please check off the skills the student covered during this project):
 
 **HTML**
- 1. [ ] image tags
+ 1. [x] image tags
  2. [ ] a tags
  3. [ ] list tags
- 4. [ ] h  tags
+ 4. [ ] h tags
  5. [ ] nav tags
  6. [ ] footer tags
  7. [ ] tables ( if used )
@@ -29,6 +29,6 @@
   1. [ ] research 1
 
 ### Project details
-  1. Project name:
-  2. Project summary:
-  3. Project coordinator:
+  1. Project name: 5 things I like about monkeys
+  2. Project summary: In this project I will talk about 5 things that I like about monkeys
+  3. Project coordinator: Sylvester Mobley
